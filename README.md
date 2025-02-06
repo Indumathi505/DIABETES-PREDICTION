@@ -8,7 +8,7 @@
 
 *DURATION* : 4 WEEKS
 
-# DESCRIPTION #
+# DESCRIPTION 
 • Completed an end-to-end diabetes prediction project, improving model accuracy by 15% through advanced feature
 engineering.
 • Developed dashboards that reduced data processing time by 30%, enabling faster insights.
